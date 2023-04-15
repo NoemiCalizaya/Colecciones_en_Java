@@ -1,4 +1,0 @@
-Juan Pérez,30,Calle 123, Ciudad A
-María González,25,Avenida 456, Ciudad B
-Pedro Sánchez,35,Calle 789, Ciudad C
-Luisa Hernández,40,Avenida 012, Ciudad D
